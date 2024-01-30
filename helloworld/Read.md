@@ -1,7 +1,7 @@
 ## Hello World
 
-Compile Code: **javac helloworld.java**
+Compile Code: **javac helloworldExample.java**
 
-Execute Code: **java helloworld**
+Execute Code: **java helloworldExample**
 
 Output: **Hello World**
